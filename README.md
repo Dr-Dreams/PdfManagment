@@ -8,7 +8,7 @@ outlines the features, functionality, and specifications of the application.
 
 ## Website
 
-[link](http://16.170.218.93:8081/login)
+[link](http://13.51.197.0:8081/register)
 
 ## Getting Started
 
